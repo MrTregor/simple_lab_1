@@ -1,5 +1,5 @@
-from printer1 import print1
+from printer import printer
+from printer_words import printer
 
-print1()
-print1()
-print1()
+printer_words.printer('Хрю')
+printer.printer(12)
