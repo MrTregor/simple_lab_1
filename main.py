@@ -1,4 +1,3 @@
-def print1():
-    print(1)
+from printer1 import print1
 
 print1()
