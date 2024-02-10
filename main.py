@@ -1,3 +1,3 @@
-from printer1 import print1
+from printer import printer
 
-print1()
+printer(12)
