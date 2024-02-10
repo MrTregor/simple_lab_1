@@ -1,3 +1,5 @@
 from printer import printer
+from printer_words import printer
 
-printer(12)
+printer_words.printer('Хрю')
+printer.printer(12)
