@@ -1,3 +1,3 @@
-from printer1 import print1
+from printer_words import printer
 
-print1()
+printer('Хрю')
