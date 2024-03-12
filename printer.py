@@ -1,2 +1,2 @@
 def printer(num: int):
-    print('Число:', num)
+    print('Число:', num) #я люблю финансовый университет
